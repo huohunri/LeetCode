@@ -10,7 +10,6 @@
 #include <sstream> // std::stringstream, std::stringbuf
 
 using namespace std;
-
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
